@@ -1,0 +1,95 @@
+body {
+  font-family:'Roboto',sans-serif;
+  background-color:#fff;
+  text-decoration:none;
+  font-weight:700;
+  color:#000;
+  text-transform:none
+}
+
+#wrapper {
+  width:100%;
+  margin:0 auto;
+  min-width:200px
+}
+
+#right-bar {
+  width:35%;
+  min-width:200px;
+  height:100vh;
+  background-color:#000;
+  float:right
+}
+
+#container {
+  width:75%;
+  margin:0 auto;
+  display:inline-block
+}
+
+h1 {
+  font-size:15em;
+  font-weight:700;
+  position:absolute;
+  top:25%;
+  left:43%
+}
+
+.tempchange {
+  color:#000;
+  text-decoration:none;
+  margin-right:10px
+}
+
+.reset {
+  margin-top:10px;
+  font-size:1.5em
+}
+
+.blacktext {
+  position:absolute;
+  top:62%;
+  left:40%;
+  font-size:2em;
+  font-weight:700;
+  color:#000;
+  padding-right:10px;
+  text-align:right;
+  line-height:120%
+}
+
+.thermo {
+  position:absolute;
+  top:50%;
+  left:76%
+}
+
+.thermotext {
+  color:#fff;
+  font-weight:bolder;
+  font-size:10em;
+  transform:rotate(90deg);
+  transform-origin:left top 0;
+  position:absolute;
+  top:10%;
+  left:76%
+}
+
+#block {
+  min-height:25px;
+  min-width:510px;
+  background-color:orange;
+  position:absolute;
+  top:45%;
+  right:103%
+}
+
+.new {
+  margin-top:15px;
+  margin-bottom:15px
+}
+
+.powerSave {
+  color:#000;
+  text-decoration:none
+}
