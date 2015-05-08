@@ -41,7 +41,9 @@ My design was based on that of one of my coaches, Roi Driscoll
 ```
 $ git clone https://github.com/katebeavis/thermostat-js.git
 $ cd thermostat-js
-$ open index.html
+$ npm install
+$ node server.js
+visit http://localhost:3000
 ```
 
 ## To Run Tests
