@@ -17,7 +17,7 @@ I really enjoyed this project as I felt we got to see just a little peek of how 
 After I completed it, I decided to run it on an Express server so I could get a Travis build & host it on Heroku which was a great learning experience for me.
 
 ## Heroku & Screenshots
-<font size="20>[Thermostat Express](https://thermostat-express.herokuapp.com)</font>
+<font size="20">[Thermostat Express](https://thermostat-express.herokuapp.com)</font>
 <div align="center">
   <img width="90%" src="public/img/orange-thermo.png">
 </div>
