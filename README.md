@@ -17,13 +17,13 @@ I really enjoyed this project as I felt we got to see just a little peek of how 
 After I completed it, I decided to run it on an Express server so I could get a Travis build & host it on Heroku which was a great learning experience for me.
 
 ## Heroku & Screenshots
-(Thermostat Express)[https://thermostat-express.herokuapp.com]
+[Thermostat Express](https://thermostat-express.herokuapp.com)
 <div align="center">
-  <img width="90%" src="public/images/orange-thermo.png">
+  <img width="90%" src="public/img/orange-thermo.png">
 </div>
 <div align="center">
-  <img width="45%" src="public/images/red-thermo.png">
-  <img width="45%" src="public/images/green-thermo.png">
+  <img width="45%" src="public/img/red-thermo.png">
+  <img width="45%" src="public/img/green-thermo.png">
 </div>
 
 
