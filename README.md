@@ -48,5 +48,5 @@ visit http://localhost:3000
 
 ## To Run Tests
 ```
-$ open SpecRunner.html
+$ jasmine
 ```
