@@ -18,7 +18,6 @@ After I completed it, I decided to run it on an Express server so I could get a 
 
 ## Heroku & Screenshots
 ###[Thermostat Express](https://thermostat-express.herokuapp.com)
-
 <div align="center">
   <img width="90%" src="public/img/orange-thermo.png">
 </div>
