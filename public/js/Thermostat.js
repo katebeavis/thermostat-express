@@ -53,3 +53,5 @@ Thermostat.prototype.energyRating = function() {
   }
 
 };
+
+module.exports = Thermostat

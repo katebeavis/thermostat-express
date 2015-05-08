@@ -4,6 +4,6 @@
     "**/*[sS]pec.js"
   ],
   "helpers": [
-    "public/js/*.js"
+    "helpers/**/*.js"
   ]
 }

@@ -1,4 +1,5 @@
 describe ("Thermostat", function() {
+  var Thermostat = require('../public/js/Thermostat');
 
   var thermo;
 
