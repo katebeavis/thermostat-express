@@ -1,2 +1,2 @@
-./node_modules/jsdom
-./node_modules/jasmine-node
+node_modules/jsdom
+node_modules/jasmine-node
