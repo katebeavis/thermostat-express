@@ -32,7 +32,7 @@ My design was based on that of one of my coaches, Roi Driscoll
 ## Technology
 - Javascript
 - jQuery
-- Jasmine
+- jasmine-npm
 - Express.js
 - HTML
 - CSS
@@ -48,5 +48,5 @@ visit http://localhost:3000
 
 ## To Run Tests
 ```
-$ open SpecRunner.html
+$ jasmine
 ```
